@@ -1,16 +1,20 @@
 <!DOCTYPE html>
 <html>
+  
+  <head>
+    <title>Clayton Boyd</title>
+    <meta charset="utf-8" />
+    <link rel="stylesheet" href="style.css?version=2" />
+  </head>
   <body>
-    <h1>My First Heading</h1>
-    <p>My first paragraph.</p>
+      <h1>Hi all! Welcome to my Podcast Assignment!</h1>
+      <h2>Here is my Podcast! In this podcast we talk about movies that we have watched during quarantine, among other things!<a href="podcast.html">here!</a></h2>
     
-    <div>
-      <audio controls>
-          <source src="Untitled_1 03.mp3" type="audio/mpeg">
-          Your browser does not support the audio tag.
-      </audio>
-    </div>
-    
-  </body>
+      <div>
+        <audio controls>
+            <source src="NEW Podcast Assignment.mp3" type="audio/mpeg">
+        </audio>
+      </div>
+     
+  <body>
 </html>
-
